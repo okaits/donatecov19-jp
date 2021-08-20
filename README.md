@@ -3,7 +3,7 @@ Donate Money by running folding@home
 
 ## How to install
 `bash
-./donatecov19.sh
+./donatecov19-jp.sh
 `
 
 ## Run
